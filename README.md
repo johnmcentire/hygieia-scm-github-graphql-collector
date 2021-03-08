@@ -1,4 +1,4 @@
-## Hygieia Collector for Github leveraging graphql
+## Hygieia Collector for Github leveraging graphql (temp)
 
 [![Build Status](https://travis-ci.com/Hygieia/hygieia-scm-github-graphql-collector.svg?branch=master)](https://travis-ci.com/Hygieia/hygieia-scm-github-graphql-collector)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hygieia_hygieia-scm-github-graphql-collector&metric=alert_status)](https://sonarcloud.io/dashboard?id=Hygieia_hygieia-scm-github-graphql-collector)
